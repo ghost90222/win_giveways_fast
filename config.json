@@ -1,0 +1,26 @@
+{
+  "cdp_url": "http://127.0.0.1:9222",
+  "delay_ms": 3500,
+  "typing_speed_ms": 0,
+  "jitter_ms": 200,
+  "variables": {
+    "uid": "232343423422"
+  },
+  "tabs": [
+    {
+      "name": "Tab 1",
+      "tab_url_contains": "https://www.youtube.com/watch",
+      "enabled": true,
+      "messages": [
+        "Giveaway entry! UID: {uid} please gift 1 RP bro",
+        "2 ghante se stream dekh raha hu bhai 1 RP dedo please! UID: {uid}",
+        "Big fan bhai! Full support, giveaway winner banado please UID: {uid}",
+        "Bhai please check karlo UID: {uid} dil se support!",
+        "Ek chance dedo bhai, 1 RP gift please UID: {uid}",
+        "Kaafi der se wait kar raha hu bro, please pick me UID: {uid}",
+        "Full support to the stream brother! BGMI UID: {uid}",
+        "Bhai giveaway entry approved kardo please! UID: {uid}"
+      ]
+    }
+  ]
+}
